@@ -1,0 +1,17 @@
+{
+  "projectName": "WildRydesVue",
+  "version": "3.0",
+  "frontend": "javascript",
+  "javascript": {
+    "framework": "none",
+    "config": {
+      "SourceDir": "src",
+      "DistributionDir": "end line",
+      "BuildCommand": "yes",
+      "StartCommand": " "
+    }
+  },
+  "providers": [
+    "awscloudformation"
+  ]
+}
